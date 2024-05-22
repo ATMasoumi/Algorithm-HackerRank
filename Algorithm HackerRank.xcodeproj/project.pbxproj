@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A82371272BFEA7AC0047F62C /* StairCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = A82371252BFEA7A60047F62C /* StairCase.swift */; };
+		A82371292BFEA7BD0047F62C /* StairCaseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A82371282BFEA7BD0047F62C /* StairCaseTests.swift */; };
 		A83F3E7A2BFDD9190083566D /* Algorithm_HackerRank.docc in Sources */ = {isa = PBXBuildFile; fileRef = A83F3E792BFDD9190083566D /* Algorithm_HackerRank.docc */; };
 		A83F3E802BFDD91A0083566D /* Algorithm_HackerRank.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A83F3E752BFDD9190083566D /* Algorithm_HackerRank.framework */; };
 		A83F3E852BFDD91A0083566D /* AVerybigSumTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83F3E842BFDD91A0083566D /* AVerybigSumTests.swift */; };
@@ -29,6 +31,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A82371252BFEA7A60047F62C /* StairCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StairCase.swift; sourceTree = "<group>"; };
+		A82371282BFEA7BD0047F62C /* StairCaseTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StairCaseTests.swift; sourceTree = "<group>"; };
 		A83F3E752BFDD9190083566D /* Algorithm_HackerRank.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Algorithm_HackerRank.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A83F3E782BFDD9190083566D /* Algorithm_HackerRank.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Algorithm_HackerRank.h; sourceTree = "<group>"; };
 		A83F3E792BFDD9190083566D /* Algorithm_HackerRank.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = Algorithm_HackerRank.docc; sourceTree = "<group>"; };
@@ -66,6 +70,7 @@
 				A83F3E8F2BFDDBFB0083566D /* A Very big Sum.swift */,
 				A83F3E912BFDED6B0083566D /* Matrix Diagonal difference .swift */,
 				A83F3E952BFE25B70083566D /* Plus Minus.swift */,
+				A82371252BFEA7A60047F62C /* StairCase.swift */,
 				A83F3E772BFDD9190083566D /* Algorithm HackerRank */,
 				A83F3E832BFDD91A0083566D /* Algorithm HackerRankTests */,
 				A83F3E762BFDD9190083566D /* Products */,
@@ -96,6 +101,7 @@
 				A83F3E842BFDD91A0083566D /* AVerybigSumTests.swift */,
 				A83F3E932BFDEE5B0083566D /* Matrix Diagonal Difference.swift */,
 				A83F3E972BFE25F60083566D /* PlusMinusTests.swift */,
+				A82371282BFEA7BD0047F62C /* StairCaseTests.swift */,
 			);
 			path = "Algorithm HackerRankTests";
 			sourceTree = "<group>";
@@ -211,6 +217,7 @@
 			files = (
 				A83F3E922BFDED6B0083566D /* Matrix Diagonal difference .swift in Sources */,
 				A83F3E7A2BFDD9190083566D /* Algorithm_HackerRank.docc in Sources */,
+				A82371272BFEA7AC0047F62C /* StairCase.swift in Sources */,
 				A83F3E902BFDDBFB0083566D /* A Very big Sum.swift in Sources */,
 				A83F3E962BFE25B70083566D /* Plus Minus.swift in Sources */,
 			);
@@ -221,6 +228,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A83F3E942BFDEE5B0083566D /* Matrix Diagonal Difference.swift in Sources */,
+				A82371292BFEA7BD0047F62C /* StairCaseTests.swift in Sources */,
 				A83F3E852BFDD91A0083566D /* AVerybigSumTests.swift in Sources */,
 				A83F3E982BFE25F60083566D /* PlusMinusTests.swift in Sources */,
 			);
