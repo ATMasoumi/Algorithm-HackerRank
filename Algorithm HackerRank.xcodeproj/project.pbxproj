@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		A83F3E7A2BFDD9190083566D /* Algorithm_HackerRank.docc in Sources */ = {isa = PBXBuildFile; fileRef = A83F3E792BFDD9190083566D /* Algorithm_HackerRank.docc */; };
 		A83F3E802BFDD91A0083566D /* Algorithm_HackerRank.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A83F3E752BFDD9190083566D /* Algorithm_HackerRank.framework */; };
-		A83F3E852BFDD91A0083566D /* Algorithm_HackerRankTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83F3E842BFDD91A0083566D /* Algorithm_HackerRankTests.swift */; };
+		A83F3E852BFDD91A0083566D /* AVerybigSumTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83F3E842BFDD91A0083566D /* AVerybigSumTests.swift */; };
 		A83F3E862BFDD91A0083566D /* Algorithm_HackerRank.h in Headers */ = {isa = PBXBuildFile; fileRef = A83F3E782BFDD9190083566D /* Algorithm_HackerRank.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A83F3E902BFDDBFB0083566D /* A Very big Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83F3E8F2BFDDBFB0083566D /* A Very big Sum.swift */; };
 /* End PBXBuildFile section */
@@ -29,7 +29,7 @@
 		A83F3E782BFDD9190083566D /* Algorithm_HackerRank.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Algorithm_HackerRank.h; sourceTree = "<group>"; };
 		A83F3E792BFDD9190083566D /* Algorithm_HackerRank.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = Algorithm_HackerRank.docc; sourceTree = "<group>"; };
 		A83F3E7F2BFDD91A0083566D /* Algorithm HackerRankTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Algorithm HackerRankTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A83F3E842BFDD91A0083566D /* Algorithm_HackerRankTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Algorithm_HackerRankTests.swift; sourceTree = "<group>"; };
+		A83F3E842BFDD91A0083566D /* AVerybigSumTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AVerybigSumTests.swift; sourceTree = "<group>"; };
 		A83F3E8F2BFDDBFB0083566D /* A Very big Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "A Very big Sum.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -83,7 +83,7 @@
 		A83F3E832BFDD91A0083566D /* Algorithm HackerRankTests */ = {
 			isa = PBXGroup;
 			children = (
-				A83F3E842BFDD91A0083566D /* Algorithm_HackerRankTests.swift */,
+				A83F3E842BFDD91A0083566D /* AVerybigSumTests.swift */,
 			);
 			path = "Algorithm HackerRankTests";
 			sourceTree = "<group>";
@@ -206,7 +206,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A83F3E852BFDD91A0083566D /* Algorithm_HackerRankTests.swift in Sources */,
+				A83F3E852BFDD91A0083566D /* AVerybigSumTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
