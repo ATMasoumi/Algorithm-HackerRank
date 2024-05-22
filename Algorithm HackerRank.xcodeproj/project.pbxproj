@@ -12,6 +12,8 @@
 		A83F3E852BFDD91A0083566D /* AVerybigSumTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83F3E842BFDD91A0083566D /* AVerybigSumTests.swift */; };
 		A83F3E862BFDD91A0083566D /* Algorithm_HackerRank.h in Headers */ = {isa = PBXBuildFile; fileRef = A83F3E782BFDD9190083566D /* Algorithm_HackerRank.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A83F3E902BFDDBFB0083566D /* A Very big Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83F3E8F2BFDDBFB0083566D /* A Very big Sum.swift */; };
+		A83F3E922BFDED6B0083566D /* Matrix Diagonal difference .swift in Sources */ = {isa = PBXBuildFile; fileRef = A83F3E912BFDED6B0083566D /* Matrix Diagonal difference .swift */; };
+		A83F3E942BFDEE5B0083566D /* Matrix Diagonal Difference.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83F3E932BFDEE5B0083566D /* Matrix Diagonal Difference.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -31,6 +33,8 @@
 		A83F3E7F2BFDD91A0083566D /* Algorithm HackerRankTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Algorithm HackerRankTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A83F3E842BFDD91A0083566D /* AVerybigSumTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AVerybigSumTests.swift; sourceTree = "<group>"; };
 		A83F3E8F2BFDDBFB0083566D /* A Very big Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "A Very big Sum.swift"; sourceTree = "<group>"; };
+		A83F3E912BFDED6B0083566D /* Matrix Diagonal difference .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Matrix Diagonal difference .swift"; sourceTree = "<group>"; };
+		A83F3E932BFDEE5B0083566D /* Matrix Diagonal Difference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Matrix Diagonal Difference.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				A83F3E8F2BFDDBFB0083566D /* A Very big Sum.swift */,
+				A83F3E912BFDED6B0083566D /* Matrix Diagonal difference .swift */,
 				A83F3E772BFDD9190083566D /* Algorithm HackerRank */,
 				A83F3E832BFDD91A0083566D /* Algorithm HackerRankTests */,
 				A83F3E762BFDD9190083566D /* Products */,
@@ -84,6 +89,7 @@
 			isa = PBXGroup;
 			children = (
 				A83F3E842BFDD91A0083566D /* AVerybigSumTests.swift */,
+				A83F3E932BFDEE5B0083566D /* Matrix Diagonal Difference.swift */,
 			);
 			path = "Algorithm HackerRankTests";
 			sourceTree = "<group>";
@@ -197,6 +203,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A83F3E922BFDED6B0083566D /* Matrix Diagonal difference .swift in Sources */,
 				A83F3E7A2BFDD9190083566D /* Algorithm_HackerRank.docc in Sources */,
 				A83F3E902BFDDBFB0083566D /* A Very big Sum.swift in Sources */,
 			);
@@ -206,6 +213,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A83F3E942BFDEE5B0083566D /* Matrix Diagonal Difference.swift in Sources */,
 				A83F3E852BFDD91A0083566D /* AVerybigSumTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
