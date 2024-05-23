@@ -13,6 +13,8 @@
 		A823712D2BFEAB9D0047F62C /* MinMaxSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A823712C2BFEAB9D0047F62C /* MinMaxSum.swift */; };
 		A823712F2BFF21850047F62C /* birthdayCakeCandles.swift in Sources */ = {isa = PBXBuildFile; fileRef = A823712E2BFF21850047F62C /* birthdayCakeCandles.swift */; };
 		A82371312BFF218F0047F62C /* birthdayCakeCandlesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A82371302BFF218F0047F62C /* birthdayCakeCandlesTests.swift */; };
+		A82371332BFF2C290047F62C /* timeConversionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A82371322BFF2C290047F62C /* timeConversionTests.swift */; };
+		A82371352BFF2C310047F62C /* timeConversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = A82371342BFF2C310047F62C /* timeConversion.swift */; };
 		A83F3E7A2BFDD9190083566D /* Algorithm_HackerRank.docc in Sources */ = {isa = PBXBuildFile; fileRef = A83F3E792BFDD9190083566D /* Algorithm_HackerRank.docc */; };
 		A83F3E802BFDD91A0083566D /* Algorithm_HackerRank.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A83F3E752BFDD9190083566D /* Algorithm_HackerRank.framework */; };
 		A83F3E852BFDD91A0083566D /* AVerybigSumTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83F3E842BFDD91A0083566D /* AVerybigSumTests.swift */; };
@@ -41,6 +43,8 @@
 		A823712C2BFEAB9D0047F62C /* MinMaxSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinMaxSum.swift; sourceTree = "<group>"; };
 		A823712E2BFF21850047F62C /* birthdayCakeCandles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = birthdayCakeCandles.swift; sourceTree = "<group>"; };
 		A82371302BFF218F0047F62C /* birthdayCakeCandlesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = birthdayCakeCandlesTests.swift; sourceTree = "<group>"; };
+		A82371322BFF2C290047F62C /* timeConversionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = timeConversionTests.swift; sourceTree = "<group>"; };
+		A82371342BFF2C310047F62C /* timeConversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = timeConversion.swift; sourceTree = "<group>"; };
 		A83F3E752BFDD9190083566D /* Algorithm_HackerRank.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Algorithm_HackerRank.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A83F3E782BFDD9190083566D /* Algorithm_HackerRank.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Algorithm_HackerRank.h; sourceTree = "<group>"; };
 		A83F3E792BFDD9190083566D /* Algorithm_HackerRank.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = Algorithm_HackerRank.docc; sourceTree = "<group>"; };
@@ -81,6 +85,7 @@
 				A82371252BFEA7A60047F62C /* StairCase.swift */,
 				A823712C2BFEAB9D0047F62C /* MinMaxSum.swift */,
 				A823712E2BFF21850047F62C /* birthdayCakeCandles.swift */,
+				A82371342BFF2C310047F62C /* timeConversion.swift */,
 				A83F3E772BFDD9190083566D /* Algorithm HackerRank */,
 				A83F3E832BFDD91A0083566D /* Algorithm HackerRankTests */,
 				A83F3E762BFDD9190083566D /* Products */,
@@ -114,6 +119,7 @@
 				A82371282BFEA7BD0047F62C /* StairCaseTests.swift */,
 				A823712A2BFEAA220047F62C /* miniMaxSumTests.swift */,
 				A82371302BFF218F0047F62C /* birthdayCakeCandlesTests.swift */,
+				A82371322BFF2C290047F62C /* timeConversionTests.swift */,
 			);
 			path = "Algorithm HackerRankTests";
 			sourceTree = "<group>";
@@ -231,6 +237,7 @@
 				A823712D2BFEAB9D0047F62C /* MinMaxSum.swift in Sources */,
 				A83F3E7A2BFDD9190083566D /* Algorithm_HackerRank.docc in Sources */,
 				A823712F2BFF21850047F62C /* birthdayCakeCandles.swift in Sources */,
+				A82371352BFF2C310047F62C /* timeConversion.swift in Sources */,
 				A82371272BFEA7AC0047F62C /* StairCase.swift in Sources */,
 				A83F3E902BFDDBFB0083566D /* A Very big Sum.swift in Sources */,
 				A83F3E962BFE25B70083566D /* Plus Minus.swift in Sources */,
@@ -247,6 +254,7 @@
 				A823712B2BFEAA220047F62C /* miniMaxSumTests.swift in Sources */,
 				A83F3E852BFDD91A0083566D /* AVerybigSumTests.swift in Sources */,
 				A83F3E982BFE25F60083566D /* PlusMinusTests.swift in Sources */,
+				A82371332BFF2C290047F62C /* timeConversionTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
