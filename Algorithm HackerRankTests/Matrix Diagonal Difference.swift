@@ -46,7 +46,7 @@ final class Matrix_Diagonal_Difference: XCTestCase {
         ]
 
         self.measure {
-            let result = diagonalDifference(arr: arrays)
+            let _ = diagonalDifference(arr: arrays)
         }
     }
 

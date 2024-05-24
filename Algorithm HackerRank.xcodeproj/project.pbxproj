@@ -36,6 +36,8 @@
 		A85395342C00963900BD107E /* BreakingRecords.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85395332C00963900BD107E /* BreakingRecords.swift */; };
 		A85395362C00D3CF00BD107E /* BirthdayChocolate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85395352C00D3CF00BD107E /* BirthdayChocolate.swift */; };
 		A85395382C00D3E100BD107E /* BirthdayChocolateTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85395372C00D3E100BD107E /* BirthdayChocolateTests.swift */; };
+		A8DD7FC72C0144910088CCC3 /* divisibleSumPairsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8DD7FC62C0144910088CCC3 /* divisibleSumPairsTests.swift */; };
+		A8DD7FC92C01455C0088CCC3 /* DivisibleSumPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8DD7FC82C01455C0088CCC3 /* DivisibleSumPairs.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -79,6 +81,8 @@
 		A85395332C00963900BD107E /* BreakingRecords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreakingRecords.swift; sourceTree = "<group>"; };
 		A85395352C00D3CF00BD107E /* BirthdayChocolate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirthdayChocolate.swift; sourceTree = "<group>"; };
 		A85395372C00D3E100BD107E /* BirthdayChocolateTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirthdayChocolateTests.swift; sourceTree = "<group>"; };
+		A8DD7FC62C0144910088CCC3 /* divisibleSumPairsTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = divisibleSumPairsTests.swift; path = "../../ss/Algorithm HackerRankTests/divisibleSumPairsTests.swift"; sourceTree = "<group>"; };
+		A8DD7FC82C01455C0088CCC3 /* DivisibleSumPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivisibleSumPairs.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +120,7 @@
 				A853952D2C0076FA00BD107E /* FindingFactors .swift */,
 				A85395332C00963900BD107E /* BreakingRecords.swift */,
 				A85395352C00D3CF00BD107E /* BirthdayChocolate.swift */,
+				A8DD7FC82C01455C0088CCC3 /* DivisibleSumPairs.swift */,
 				A83F3E772BFDD9190083566D /* Algorithm HackerRank */,
 				A83F3E832BFDD91A0083566D /* Algorithm HackerRankTests */,
 				A83F3E762BFDD9190083566D /* Products */,
@@ -156,6 +161,7 @@
 				A853952F2C00778300BD107E /* FindingFactorsTests.swift */,
 				A85395312C00962D00BD107E /* BreakingRecordsTests.swift */,
 				A85395372C00D3E100BD107E /* BirthdayChocolateTests.swift */,
+				A8DD7FC62C0144910088CCC3 /* divisibleSumPairsTests.swift */,
 			);
 			path = "Algorithm HackerRankTests";
 			sourceTree = "<group>";
@@ -290,6 +296,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A8DD7FC92C01455C0088CCC3 /* DivisibleSumPairs.swift in Sources */,
 				A83F3E942BFDEE5B0083566D /* Matrix Diagonal Difference.swift in Sources */,
 				A85395322C00962D00BD107E /* BreakingRecordsTests.swift in Sources */,
 				A85395302C00778300BD107E /* FindingFactorsTests.swift in Sources */,
@@ -303,6 +310,7 @@
 				A85395382C00D3E100BD107E /* BirthdayChocolateTests.swift in Sources */,
 				A82371392BFF7A340047F62C /* GradingStudentsTests.swift in Sources */,
 				A82371332BFF2C290047F62C /* timeConversionTests.swift in Sources */,
+				A8DD7FC72C0144910088CCC3 /* divisibleSumPairsTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
