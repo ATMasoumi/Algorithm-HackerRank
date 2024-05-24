@@ -4,7 +4,6 @@
 //
 //  Created by Amir Masoumi on 5/24/24.
 //
-/// https://www.hackerrank.com/challenges/between-two-sets
 
 import XCTest
 import Algorithm_HackerRank

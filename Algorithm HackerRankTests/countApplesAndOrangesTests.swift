@@ -4,7 +4,6 @@
 //
 //  Created by Amir Masoumi on 5/23/24.
 //
-/// https://www.hackerrank.com/challenges/apple-and-orange
 
 import XCTest
 import Algorithm_HackerRank

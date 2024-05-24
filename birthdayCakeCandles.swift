@@ -5,10 +5,9 @@
 //  Created by Amir Masoumi on 5/23/24.
 //
 
-/// https://www.hackerrank.com/challenges/birthday-cake-candles
-
 import Foundation
 
+/// https://www.hackerrank.com/challenges/birthday-cake-candles
 public func birthdayCakeCandles(candles: [Int]) -> Int {
     var highCandlesCount = 0
     var currentHigh = 0

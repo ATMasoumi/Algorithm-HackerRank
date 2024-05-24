@@ -7,7 +7,7 @@
 
 import Foundation
 
-
+/// https://www.hackerrank.com/challenges/apple-and-orange
 public func countApplesAndOranges(s: Int, t: Int, a: Int, b: Int, apples: [Int], oranges: [Int]) -> (apples: Int, oranges: Int) {
 
     let applesLocations = apples.map({ $0 + a})

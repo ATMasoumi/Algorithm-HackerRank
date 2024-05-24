@@ -7,6 +7,7 @@
 
 import Foundation
 
+/// https://www.hackerrank.com/challenges/between-two-sets
 public func getTotalX(a: [Int], b: [Int]) -> Int {
     // Write your code here
     guard let aMax = a.max(),

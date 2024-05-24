@@ -4,10 +4,10 @@
 //
 //  Created by Amir Masoumi on 5/23/24.
 //
-/// https://www.hackerrank.com/challenges/grading
 
 import Foundation
 
+/// https://www.hackerrank.com/challenges/grading
 public func gradingStudents(grades: [Int]) -> [Int] {
     var changedGrades: [Int] = grades
     for i in 0..<grades.count {

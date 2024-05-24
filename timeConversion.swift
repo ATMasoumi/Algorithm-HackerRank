@@ -4,10 +4,10 @@
 //
 //  Created by Amir Masoumi on 5/23/24.
 //
-/// https://www.hackerrank.com/challenges/time-conversion
 
 import Foundation
 
+/// https://www.hackerrank.com/challenges/time-conversion
 public func timeConversion(string: String) -> String {
     let split = string.split(separator: ":")
     let hour = split[0]
