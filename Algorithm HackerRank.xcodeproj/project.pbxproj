@@ -34,6 +34,8 @@
 		A85395302C00778300BD107E /* FindingFactorsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A853952F2C00778300BD107E /* FindingFactorsTests.swift */; };
 		A85395322C00962D00BD107E /* BreakingRecordsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85395312C00962D00BD107E /* BreakingRecordsTests.swift */; };
 		A85395342C00963900BD107E /* BreakingRecords.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85395332C00963900BD107E /* BreakingRecords.swift */; };
+		A85395362C00D3CF00BD107E /* BirthdayChocolate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85395352C00D3CF00BD107E /* BirthdayChocolate.swift */; };
+		A85395382C00D3E100BD107E /* BirthdayChocolateTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85395372C00D3E100BD107E /* BirthdayChocolateTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -75,6 +77,8 @@
 		A853952F2C00778300BD107E /* FindingFactorsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindingFactorsTests.swift; sourceTree = "<group>"; };
 		A85395312C00962D00BD107E /* BreakingRecordsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreakingRecordsTests.swift; sourceTree = "<group>"; };
 		A85395332C00963900BD107E /* BreakingRecords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreakingRecords.swift; sourceTree = "<group>"; };
+		A85395352C00D3CF00BD107E /* BirthdayChocolate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirthdayChocolate.swift; sourceTree = "<group>"; };
+		A85395372C00D3E100BD107E /* BirthdayChocolateTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirthdayChocolateTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +115,7 @@
 				A823713E2BFFC8670047F62C /* Kangaroo.swift */,
 				A853952D2C0076FA00BD107E /* FindingFactors .swift */,
 				A85395332C00963900BD107E /* BreakingRecords.swift */,
+				A85395352C00D3CF00BD107E /* BirthdayChocolate.swift */,
 				A83F3E772BFDD9190083566D /* Algorithm HackerRank */,
 				A83F3E832BFDD91A0083566D /* Algorithm HackerRankTests */,
 				A83F3E762BFDD9190083566D /* Products */,
@@ -150,6 +155,7 @@
 				A82371402BFFC8710047F62C /* kangarooTests.swift */,
 				A853952F2C00778300BD107E /* FindingFactorsTests.swift */,
 				A85395312C00962D00BD107E /* BreakingRecordsTests.swift */,
+				A85395372C00D3E100BD107E /* BirthdayChocolateTests.swift */,
 			);
 			path = "Algorithm HackerRankTests";
 			sourceTree = "<group>";
@@ -264,6 +270,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A83F3E922BFDED6B0083566D /* Matrix Diagonal difference .swift in Sources */,
+				A85395362C00D3CF00BD107E /* BirthdayChocolate.swift in Sources */,
 				A823712D2BFEAB9D0047F62C /* MinMaxSum.swift in Sources */,
 				A83F3E7A2BFDD9190083566D /* Algorithm_HackerRank.docc in Sources */,
 				A823712F2BFF21850047F62C /* birthdayCakeCandles.swift in Sources */,
@@ -293,6 +300,7 @@
 				A82371412BFFC8710047F62C /* kangarooTests.swift in Sources */,
 				A83F3E852BFDD91A0083566D /* AVerybigSumTests.swift in Sources */,
 				A83F3E982BFE25F60083566D /* PlusMinusTests.swift in Sources */,
+				A85395382C00D3E100BD107E /* BirthdayChocolateTests.swift in Sources */,
 				A82371392BFF7A340047F62C /* GradingStudentsTests.swift in Sources */,
 				A82371332BFF2C290047F62C /* timeConversionTests.swift in Sources */,
 			);
