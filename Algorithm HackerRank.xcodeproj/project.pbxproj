@@ -30,6 +30,8 @@
 		A83F3E942BFDEE5B0083566D /* Matrix Diagonal Difference.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83F3E932BFDEE5B0083566D /* Matrix Diagonal Difference.swift */; };
 		A83F3E962BFE25B70083566D /* Plus Minus.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83F3E952BFE25B70083566D /* Plus Minus.swift */; };
 		A83F3E982BFE25F60083566D /* PlusMinusTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83F3E972BFE25F60083566D /* PlusMinusTests.swift */; };
+		A853952E2C0076FA00BD107E /* FindingFactors .swift in Sources */ = {isa = PBXBuildFile; fileRef = A853952D2C0076FA00BD107E /* FindingFactors .swift */; };
+		A85395302C00778300BD107E /* FindingFactorsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A853952F2C00778300BD107E /* FindingFactorsTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +69,8 @@
 		A83F3E932BFDEE5B0083566D /* Matrix Diagonal Difference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Matrix Diagonal Difference.swift"; sourceTree = "<group>"; };
 		A83F3E952BFE25B70083566D /* Plus Minus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Plus Minus.swift"; sourceTree = "<group>"; };
 		A83F3E972BFE25F60083566D /* PlusMinusTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusMinusTests.swift; sourceTree = "<group>"; };
+		A853952D2C0076FA00BD107E /* FindingFactors .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FindingFactors .swift"; sourceTree = "<group>"; };
+		A853952F2C00778300BD107E /* FindingFactorsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindingFactorsTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,7 @@
 				A82371362BFF7A1E0047F62C /* GradingStudents.swift */,
 				A823713C2BFF86520047F62C /* countApplesAndOranges.swift */,
 				A823713E2BFFC8670047F62C /* Kangaroo.swift */,
+				A853952D2C0076FA00BD107E /* FindingFactors .swift */,
 				A83F3E772BFDD9190083566D /* Algorithm HackerRank */,
 				A83F3E832BFDD91A0083566D /* Algorithm HackerRankTests */,
 				A83F3E762BFDD9190083566D /* Products */,
@@ -138,6 +143,7 @@
 				A82371382BFF7A340047F62C /* GradingStudentsTests.swift */,
 				A823713A2BFF864B0047F62C /* countApplesAndOrangesTests.swift */,
 				A82371402BFFC8710047F62C /* kangarooTests.swift */,
+				A853952F2C00778300BD107E /* FindingFactorsTests.swift */,
 			);
 			path = "Algorithm HackerRankTests";
 			sourceTree = "<group>";
@@ -256,6 +262,7 @@
 				A83F3E7A2BFDD9190083566D /* Algorithm_HackerRank.docc in Sources */,
 				A823712F2BFF21850047F62C /* birthdayCakeCandles.swift in Sources */,
 				A82371372BFF7A1E0047F62C /* GradingStudents.swift in Sources */,
+				A853952E2C0076FA00BD107E /* FindingFactors .swift in Sources */,
 				A82371352BFF2C310047F62C /* timeConversion.swift in Sources */,
 				A823713D2BFF86520047F62C /* countApplesAndOranges.swift in Sources */,
 				A82371272BFEA7AC0047F62C /* StairCase.swift in Sources */,
@@ -270,6 +277,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A83F3E942BFDEE5B0083566D /* Matrix Diagonal Difference.swift in Sources */,
+				A85395302C00778300BD107E /* FindingFactorsTests.swift in Sources */,
 				A82371312BFF218F0047F62C /* birthdayCakeCandlesTests.swift in Sources */,
 				A82371292BFEA7BD0047F62C /* StairCaseTests.swift in Sources */,
 				A823712B2BFEAA220047F62C /* miniMaxSumTests.swift in Sources */,
