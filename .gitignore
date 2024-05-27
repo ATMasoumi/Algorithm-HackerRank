@@ -1,0 +1,5 @@
+*.xcuserstate
+*.xcbkptlist
+Algorithm HackerRank.xcodeproj/xcuserdata/amintorabi.xcuserdatad/xcschemes/xcschememanagement.plist
+*.pbxproj
+.DS_Store
