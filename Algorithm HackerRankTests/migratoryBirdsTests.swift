@@ -6,36 +6,7 @@
 //
 
 import XCTest
-
-
-
-func migratoryBirds(arr: [Int]) -> Int {
-    var types:[Int:[Int]] = [:]
-    arr.forEach { item in
-        guard var newArr = types[item] else {
-            types.updateValue([item], forKey: item)
-            return
-        }
-        newArr.append(item)
-        types.updateValue(newArr, forKey: item)
-    }
-    var highestItems: [Int:[Int]] = [:]
-    types.forEach { item in
-        guard let firstItemCount = highestItems.first?.value.count else {
-            highestItems.updateValue(item.value, forKey: item.key)
-            return
-        }
-        if item.value.count > firstItemCount {
-            highestItems.removeAll()
-            highestItems.updateValue(item.value, forKey: item.key)
-        } else if item.value.count == firstItemCount {
-            highestItems.updateValue(item.value, forKey: item.key)
-        }
-    }
-
-    return highestItems.keys.min() ?? 0
-
-}
+import Algorithm_HackerRank
 
 final class migratoryBirdsTests: XCTestCase {
     func testExample() {
